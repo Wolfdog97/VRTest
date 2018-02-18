@@ -92,7 +92,7 @@ MonoBehaviour:
       keyValue: 0.25
       dynamicKeyValue: 1
       adaptationType: 0
-      speedUp: 2
+      speedUp: 1
       speedDown: 1
       logMin: -8
       logMax: 4
