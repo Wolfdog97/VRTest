@@ -6,5 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/VRHW_V3.unity
-    guid: 53c83f5ef28ec3a4d9ce7a9cb4663e62
+    path: Assets/DarkHallway_0.unity
+    guid: 8db7b5258f87ee34ab667adc4f61dd17
